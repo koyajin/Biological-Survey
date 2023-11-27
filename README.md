@@ -1,2 +1,2 @@
-# Biological-Survey
-This is a survey of familiar living things.
+# 生物調査
+身近な生物の調査をしています.
